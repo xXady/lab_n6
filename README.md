@@ -8,4 +8,7 @@
 - Вывод результата
 
 #### Скриншоты тестов приведены ниже:
-![image](https://github.com/xXady/lab_n6/assets/102038515/4071f370-a907-48bd-bfa6-ca29ddac275f)
+![image](https://github.com/xXady/lab_n6/assets/102038515/76e94a72-9005-4f11-8f85-185be33c525e)
+![image](https://github.com/xXady/lab_n6/assets/102038515/b57edaf1-b231-4f9e-a17a-9ed8606becfd)
+
+
